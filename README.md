@@ -1,6 +1,9 @@
 # Data-science-Unlox-project-2
 SpendDNA - Python-based transaction analytics system that analyzes UPI/bank transactions, categorizes spending, detects anomalies, identifies financial archetypes, and generates a detailed spending report using Pandas and NumPy.
 
+project link  colab 
+https://colab.research.google.com/drive/1NPUiWgo6FYU4hyCsTk8W0OgrIYIB6W_x?usp=sharing
+
 # 💳 SpendDNA - Your Wallet's Year-End Story
 
 SpendDNA is a Python-based financial analytics project that analyzes six months of UPI/bank transaction data and generates a detailed spending report. It cleans messy transaction records, extracts vendors, categorizes expenses, detects anomalies, identifies spending archetypes, and provides meaningful financial insights.
